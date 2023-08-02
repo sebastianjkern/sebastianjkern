@@ -11,11 +11,8 @@
 # Simulations:
 
 - ![fluidsim](https://github.com/sebastianjkern/fluidsim): Simulate 2d fluids
-- ![]()
 
 # Plotting utils:
 
 - ![ODE-Plot](https://github.com/sebastianjkern/ode-plot): Plot ordinary differential equations
 - ![ET-Plot](https://github.com/sebastianjkern/et-plot): Plot points of complex functions
-
-# Random stuff:
