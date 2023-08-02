@@ -1,16 +1,21 @@
-### Hi there 👋
+## My Projects:
 
-<!--
-**sebastianjkern/sebastianjkern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Graphics:
 
-Here are some ideas to get you started:
+- ![SDF UI](https://github.com/sebastianjkern/sdf_ui): Signed Distance Function based graphics library. Does not actually support any UI.
+- ![Schnurrer](https://github.com/sebastianjkern/schnurrer): Automatically add moustaches to faces using pretrained facial feature recognition library.
+- ![ImAscii](https://github.com/sebastianjkern/imascii): Convert images to ascii art.
+- ![Pythagors-Fractal](https://github.com/sebastianjkern/pythagoras-fractal): Plot a pythagoras theorem fractal tree
+- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Simulations:
+
+- ![fluidsim](https://github.com/sebastianjkern/fluidsim): Simulate 2d fluids
+- ![]()
+
+# Plotting utils:
+
+- ![ODE-Plot](https://github.com/sebastianjkern/ode-plot): Plot ordinary differential equations
+- ![ET-Plot](https://github.com/sebastianjkern/et-plot): Plot points of complex functions
+
+# Random stuff:
