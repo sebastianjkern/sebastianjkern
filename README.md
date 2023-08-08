@@ -14,6 +14,7 @@
 - ![SpringMassClustering: Python](https://github.com/sebastianjkern/spring-clustering): Graphical clustering algorithm based on a damped spring mass system pure python version
 - ![SpringMassClustering: Python+Go](https://github.com/sebastianjkern/SpringMassClustering): Graphical clustering algorithm based on a damped spring mass system, sped up version of ![this](https://github.com/sebastianjkern/spring-clustering) with main simulation code written in golang
 - ![HillClimbingImageGeneration](https://github.com/sebastianjkern/hill_climbing_image_generation): Hill climbing algorithm that tries to optimize for score of an imagenet classification network. Works exceptionally awful.
+- [Genetic Algorithm](https://github.com/sebastianjkern/genetic-algorithm): Genetic algorithm implemented in golang
 
 # Plotting utils:
 
