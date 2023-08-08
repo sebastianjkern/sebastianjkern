@@ -11,7 +11,7 @@
 
 - ![fluidsim](https://github.com/sebastianjkern/fluidsim): Simulate 2d fluids
 - ![SpringMassClustering: Python](https://github.com/sebastianjkern/spring-clustering): Graphical clustering algorithm based on a damped spring mass system pure python version
-- ![SpringMassClustering: Python+Go](https://github.com/sebastianjkern/SpringMassClustering): Graphical clustering algorithm based on a damped spring mass system sped up python version with faster native go code
+- ![SpringMassClustering: Python+Go](https://github.com/sebastianjkern/SpringMassClustering): Graphical clustering algorithm based on a damped spring mass system, sped up version of ![this](https://github.com/sebastianjkern/spring-clustering) with main simulation code written in golang
 
 # Plotting utils:
 
