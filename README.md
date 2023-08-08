@@ -6,7 +6,6 @@
 - ![Schnurrer](https://github.com/sebastianjkern/schnurrer): Automatically add moustaches to faces using pretrained facial feature recognition library.
 - ![ImAscii](https://github.com/sebastianjkern/imascii): Convert images to ascii art.
 - ![Pythagoras-Fractal](https://github.com/sebastianjkern/pythagoras-fractal): Plot a pythagoras theorem fractal tree
-- 
 
 # Simulations:
 
